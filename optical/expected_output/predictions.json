@@ -1,0 +1,158 @@
+{
+  "selection": "Earliest validation image from each reference class (0-8). The saved predictions match the reference labels for all nine images.",
+  "samples": [
+    {
+      "image": "demo_data/images/episode_001187_label_0.jpg",
+      "reference_label": 0,
+      "prediction": 0,
+      "blue_on_count": 0,
+      "branch": "lda",
+      "blue_scores": [
+        1.600000023841858,
+        1.600000023841858,
+        1.600000023841858,
+        1.617578148841858,
+        1.600000023841858,
+        1.600000023841858,
+        1.600000023841858,
+        1.600000023841858
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001188_label_3.jpg",
+      "reference_label": 3,
+      "prediction": 3,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.7726564407348633,
+        2.5894532203674316,
+        116.3991470336914,
+        2.5999999046325684,
+        2.7412109375,
+        2.266406297683716,
+        2.529101610183716,
+        2.6320314407348633
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001190_label_7.jpg",
+      "reference_label": 7,
+      "prediction": 7,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.9777345657348633,
+        1.600000023841858,
+        1.600000023841858,
+        1.600000023841858,
+        2.2242188453674316,
+        1.600000023841858,
+        120.59589385986328,
+        1.600000023841858
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001192_label_2.jpg",
+      "reference_label": 2,
+      "prediction": 2,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.5999999046325684,
+        68.36384582519531,
+        2.575000047683716,
+        2.5753908157348633,
+        2.7999024391174316,
+        2.7660157680511475,
+        2.7169923782348633,
+        2.2249999046325684
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001194_label_6.jpg",
+      "reference_label": 6,
+      "prediction": 6,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        1.399999976158142,
+        2.4546875953674316,
+        2.2249999046325684,
+        1.399999976158142,
+        1.600000023841858,
+        66.97724151611328,
+        1.6023437976837158,
+        1.399999976158142
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001196_label_1.jpg",
+      "reference_label": 1,
+      "prediction": 1,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        102.00996398925781,
+        2.7906250953674316,
+        2.2765626907348633,
+        2.5914063453674316,
+        2.8000001907348633,
+        2.8000001907348633,
+        2.2353515625,
+        2.8000001907348633
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001198_label_5.jpg",
+      "reference_label": 5,
+      "prediction": 5,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.2658205032348633,
+        2.537890672683716,
+        2.7750978469848633,
+        2.4250001907348633,
+        96.06314849853516,
+        2.4390625953674316,
+        2.6701173782348633,
+        2.4921875
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001200_label_4.jpg",
+      "reference_label": 4,
+      "prediction": 4,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.5224609375,
+        1.6046875715255737,
+        1.600000023841858,
+        145.3668975830078,
+        2.48193359375,
+        1.607031226158142,
+        1.600000023841858,
+        1.600000023841858
+      ]
+    },
+    {
+      "image": "demo_data/images/episode_001202_label_8.jpg",
+      "reference_label": 8,
+      "prediction": 8,
+      "blue_on_count": 1,
+      "branch": "lda",
+      "blue_scores": [
+        2.7804689407348633,
+        2.732421875,
+        2.7218751907348633,
+        2.7984375953674316,
+        2.7593750953674316,
+        2.7281250953674316,
+        2.5869140625,
+        59.99315643310547
+      ]
+    }
+  ]
+}
